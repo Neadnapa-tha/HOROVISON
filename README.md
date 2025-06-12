@@ -47,24 +47,15 @@
 
 ## Design
 
-<div style="display: flex; gap: 20px; align-items: center;">
+<img width="246" alt="Screenshot 2568-06-12 at 18 12 22" src="https://github.com/user-attachments/assets/33d9fef2-eb30-401a-8bda-1e84ea634221" />
 
-  <div style="text-align: center;">
-    <h3>Homepage</h3>
-    <img src="https://github.com/user-attachments/assets/33d9fef2-eb30-401a-8bda-1e84ea634221" height="250" />
-  </div>
+### Daily Tarot
 
-  <div style="text-align: center;">
-    <h3>Daily Tarot</h3>
-    <img src="https://github.com/user-attachments/assets/accc1327-4608-4725-9cc3-347a1f38c138" height="250" />
-  </div>
+<img width="392" alt="Screenshot 2568-06-12 at 18 12 58" src="https://github.com/user-attachments/assets/accc1327-4608-4725-9cc3-347a1f38c138" />
 
-  <div style="text-align: center;">
-    <h3>Chinese Zodiac</h3>
-    <img src="https://github.com/user-attachments/assets/98ec65ac-b0dc-4eaf-aa5a-85aef3e6ada5" height="250" />
-  </div>
+### Chinese Zodiac
 
-</div>
+<img width="392" alt="Screenshot 2568-06-12 at 18 13 39" src="https://github.com/user-attachments/assets/98ec65ac-b0dc-4eaf-aa5a-85aef3e6ada5" />
 
 ### Zodiac
 
