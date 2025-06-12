@@ -62,3 +62,6 @@
 <img width="392" height="350" alt="Screenshot 2568-06-12 at 18 14 09" src="https://github.com/user-attachments/assets/4aeff83a-301d-4aa8-b71d-19ae754372ae" />
 
 <img width="392" height="350" alt="Screenshot 2568-06-12 at 18 14 26" src="https://github.com/user-attachments/assets/af1b0647-e352-43c3-b7b9-396ca5837792" />
+
+---
+
